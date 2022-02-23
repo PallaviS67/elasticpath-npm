@@ -1,0 +1,15 @@
+{
+  "name": "trika_admin_app_graphql_mongodb",
+  "version": "1.0.2",
+  "description": "",
+  "main": "authenticate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PallaviS67/Trika_admin_app_graphql_mongodb.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
